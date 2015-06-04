@@ -1,0 +1,105 @@
+/* *** MAIN COLOR: #208baf *** */
+
+::selection {background:#208baf;}
+::-moz-selection {background:#208baf;}
+
+.flickr_widget_wrapper a .flickr_border,
+.dribbble_widget_wrapper a .flickr_border,
+.dropcap.type5,
+header .sub-menu {border-color:#208baf;
+}
+a,
+.widget_nav_menu ul li a:hover,
+.widget_archive ul li a:hover,
+.widget_pages ul li a:hover,
+.widget_categories ul li a:hover,
+.widget_recent_entries ul li a:hover,
+header .menu > li:hover > a,
+header .menu > li.current-menu-parent > a,
+header .menu > li.current-menu-item > a,
+.blog_post_content .blog_post-topline .blog_post-meta span a:hover,
+.prev_next_links .fleft a:hover,
+.prev_next_links .fright a:hover,
+.gallery_back a:hover,
+.sidepanel .menu .current_page_item a,
+.commentlist .comment_info span a:hover,
+.module_blog .blogpost_title:hover {color:#208baf;
+}
+.pre_footer a:hover,
+.pre_footer .widget_posts .post_title:hover,
+.columns2 .portfolio_item .gallery_title a:hover,
+.columns3 .portfolio_item .gallery_title a:hover,
+.columns4 .portfolio_item .gallery_title a:hover,
+.ui-widget-content a,
+.featured_items_title a:hover,
+.ui-state-active.shortcode_accordion_item_title, .ui-state-active.shortcode_toggles_item_title,
+.shortcode_accordion_item_title:hover, .shortcode_toggles_item_title:hover,
+.widget_nav_menu ul li.current_page_item > a,
+.mobile_menu_wrapper li > a:hover {color:#208baf!important;
+}
+#respond #submit,
+.shortcode_button.btn_type5,
+.nivo-directionNav a:hover {
+	background-color:#208baf;
+}
+.widget_mailchimpsf_widget input.mc_submit:hover,
+.wpcf7-submit,
+.shortcode_accordion_item_title.ui-state-active .ico, .shortcode_toggles_item_title.ui-state-active .ico,
+.shortcode_accordion_item_title:hover .ico, .shortcode_toggles_item_title:hover .ico,
+.panel_toggler:hover,
+.color_list .shortcode_button:hover {background-color:#208baf!important;
+}
+
+/*For plugin modules*/
+.most_popular .price_item_title,
+.shortcode_button.btn_type1:hover,
+.most_popular .price_item_btn a,
+blockquote.shortcode_blockquote.type2:after,
+blockquote.shortcode_blockquote.type5:before,
+.shortcode_button.btn_normal.btn_type5,
+blockquote.shortcode_blockquote.type5:after,
+.shortcode_tab_item_title:hover,
+.dropcap.type2,
+header .menu > li.current-menu-item:after,
+header .menu > li.current-menu-ancestor:after,
+header .menu > li:hover:after,
+.right-sidebar-block .tagcloud a:hover, .left-sidebar-block .tagcloud a:hover,
+.highlighted_colored {
+	background-color:#208baf;
+}
+.most_popular .price_item_cost h2,
+.dropcap.type5,
+.pagerblock li a:hover,
+.pagerblock li a.current,
+.right-sidebar-block .recentcomments a, .left-sidebar-block .recentcomments a,
+.optionset li a:hover,
+.blogpost_share a:hover i,
+.optionset li.selected a {
+	color:#208baf;
+}
+
+.shortcode_iconbox:hover .iconbox_body .iconbox_title,
+.shortcode_iconbox:hover .iconbox_body p,
+.shortcode_iconbox:hover .iconbox_body,
+.iconbox_wrapper:hover .ico i,
+.preview_meta a:hover {
+	color:#208baf!important;
+}
+
+.iconbox_wrapper:hover .ico,
+.module_cont hr.type3,
+blockquote.shortcode_blockquote.type2:before,
+.blogpost_share a:hover,
+.right-sidebar-block .tagcloud a:hover, .left-sidebar-block .tagcloud a:hover,
+.shortcode_promoblock {
+	border-color:#208baf;
+}
+
+header .sub-menu li:hover > a, header .sub-menu li.current-menu-parent > a, header .sub-menu li.current-menu-item > a, header .sub-menu .sub-menu li:hover a, header .sub-menu .sub-menu li.current-menu-item a {
+    background-color: rgba(42, 144, 178, 0.9);
+}
+header .sub-menu li.current-menu-item a:before, header .sub-menu li:hover a:before {background-color: rgba(42, 144, 178, 0.9);
+}
+.feedback_form .feedback_go,
+.feedback_form .feedback_reset:hover {background-color:#208baf;
+}

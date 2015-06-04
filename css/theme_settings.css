@@ -1,0 +1,166 @@
+a,
+.widget_nav_menu ul li a:hover,
+.widget_archive ul li a:hover,
+.widget_pages ul li a:hover,
+.widget_categories ul li a:hover,
+.widget_recent_entries ul li a:hover,
+header .menu > li:hover > a,
+header .menu > li.current-menu-parent > a,
+header .menu > li.current-menu-item > a,
+.blog_post_content .blog_post-topline .blog_post-meta span a:hover,
+.prev_next_links .fleft a:hover,
+.prev_next_links .fright a:hover,
+.gallery_back a:hover,
+.sidepanel .menu .current_page_item a,
+.commentlist .comment_info span a:hover,
+.module_blog .blogpost_title:hover {
+	opacity: 0.99;
+}
+.pre_footer a:hover,
+.pre_footer .widget_posts .post_title:hover,
+.columns2 .portfolio_item .gallery_title a:hover,
+.columns3 .portfolio_item .gallery_title a:hover,
+.columns4 .portfolio_item .gallery_title a:hover,
+.ui-widget-content a,
+.featured_items_title a:hover,
+.ui-state-active.shortcode_accordion_item_title, .ui-state-active.shortcode_toggles_item_title,
+.shortcode_accordion_item_title:hover, .shortcode_toggles_item_title:hover,
+.widget_nav_menu ul li.current_page_item > a,
+.mobile_menu_wrapper li > a:hover {
+	opacity: 0.99;
+}
+.ui-widget-content a:hover {
+	color:#343434!important;
+}
+.wpcf7-submit:hover {
+	background-color:#404040!important;
+}
+
+.most_popular .price_item_cost h2,
+.dropcap.type5,
+.pagerblock li a:hover,
+.pagerblock li a.current,
+.right-sidebar-block .recentcomments a, .left-sidebar-block .recentcomments a,
+.optionset li a:hover,
+.blogpost_share a:hover i,
+.optionset li.selected a {
+	opacity: 0.99;
+}
+
+.shortcode_iconbox:hover .iconbox_body .iconbox_title,
+.shortcode_iconbox:hover .iconbox_body p,
+.shortcode_iconbox:hover .iconbox_body,
+.iconbox_wrapper:hover .ico i,
+.preview_meta a:hover {
+	opacity: 0.99;
+}
+
+/* *** F O N T   F A M I L I E S  *** */
+
+* {font-family:Arial, Helvetica, sans-serif;
+}
+header .menu li a {font-family:Arial, Helvetica, sans-serif !important;
+}
+
+/* ***  F O N T   S E T T I N G S  *** */
+
+p, td, div,
+blockquote p {
+    font-size:13px;
+    line-height:22px;
+}
+
+header .top_line .call_us,
+header .top_line .slogan {
+    line-height:14px;
+    font-size:11px;
+}
+
+h1, h2, h3, h4, h5, h6,
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    text-decoration:none!important;
+    padding:0;
+    color:#596d75;
+}
+
+* { font-family:Arial, Helvetica, sans-serif;	
+}
+
+input, button, select, textarea {
+	font-family:Arial, Helvetica, sans-serif!important;
+}
+
+h1, h2, h3, h4, h5, h6,
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+input[type=submit], input[type=button],
+input[type="reset"],
+.blog_post_content .blogpost_date .blogpost_date-day,
+.blogpost_date-month,
+.boxed_date_day,
+.boxed_date_month {	font-family:'Open Sans', sans-serif !important;
+}
+
+h1, h1 span, h1 a {
+	font-size:30px;
+	line-height:32px;
+}
+h2, h2 span, h2 a {
+    font-size:24px;
+    line-height:26px;
+}
+h3, h3 span, h3 a {
+    font-size:20px;
+    line-height:22px;
+}
+h4, h4 span, h4 a {
+    font-size:18px;
+    line-height:20px;
+}
+h5, h5 span, h5 a {
+    font-size:16px;
+    line-height:18px;
+}
+h6, h6 span, h6 a {
+    font-size:14px;
+    line-height:16px;
+}
+
+.pre_footer {
+    background-color:#252728;
+}
+
+footer, footer .copyright {
+    color:#666666 !important;
+}
+
+.page_title_block .title {
+    color:#FFFFFF !important;
+}
+
+header .sub-menu li a {
+    color: #666666;
+    opacity: 0.99;
+}
+
+header .sub-menu li:hover > a, header .sub-menu li.current-menu-parent > a, header .sub-menu li.current-menu-item > a, header .sub-menu .sub-menu li:hover a, header .sub-menu .sub-menu li.current-menu-item a {
+    color: #fefefe;    
+}
+header .sub-menu, header .sub-menu .sub-menu li a {
+    background-color: rgba(231, 229, 231, 0.9);
+}
+header .sub-menu > li a {border-bottom: 1px solid #c9c9c9;
+}
+.page_title_block {
+    background-color:#f78c40;
+    background-image:-moz-linear-gradient(top,#f78c40,#d67632);
+    background-image:-webkit-gradient(linear,0 0,0 100%,from(#f78c40),to(#d67632));
+    background-image:-webkit-linear-gradient(top,#f78c40,#d67632);
+    background-image:-o-linear-gradient(top,#f78c40,#d67632);
+    background-image:linear-gradient(to bottom,#f78c40,#d67632);
+    background-size: cover;
+    margin: 0;
+    overflow: hidden;
+    clear: both;
+}
